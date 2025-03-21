@@ -1,4 +1,4 @@
-﻿namespace PriceNegotiationApp.Entities
+﻿      namespace PriceNegotiationApp.Entities
 {
     public class User
     {
